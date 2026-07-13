@@ -79,15 +79,7 @@ body:
       label: Browser
       options:
         - Firefox
-        - Firefox Beta
-        - Firefox Developer Edition
-        - Firefox Nightly
         - Firefox ESR
-        - Floorp
-        - LibreWolf
-        - Zen Browser
-        - Waterfox
-        - Other
     validations:
       required: true
 
