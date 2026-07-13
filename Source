@@ -143,7 +143,7 @@
 /****************************************************************************
  * SECTION: TAB UNLOAD                                                      *
 ****************************************************************************/
-w
+
 // PREF: unload tabs on low memory
 // [ABOUT] about:unloads
 // Firefox will detect if your computer’s memory is running low (less than 200MB)
