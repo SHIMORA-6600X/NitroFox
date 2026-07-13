@@ -65,6 +65,7 @@ body:
     attributes:
       label: Operating System (OS)
       options:
+        - Windows (7  or 8.1)
         - Windows (10 or later)
         - macOS (ARM-based device)
         - macOS (Intel-based device)
