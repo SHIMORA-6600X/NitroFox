@@ -29,5 +29,9 @@ it's a Custom user.js that's make your browser more faster give feel like a chro
 # SUPPORT
 if like this project please leave a ⭐ 
 
+# SPECIAL THANKS FOR 
+@A7md70242602GH
+
 # LICENSE
 [MIT](https://github.com/SHIMORA-6600X/NitroFox/blob/main/LICENSE)
+
