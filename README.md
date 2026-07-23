@@ -30,7 +30,8 @@ it's a Custom user.js that's make your browser more faster give feel like a chro
 if like this project please leave a ⭐ 
 
 # SPECIAL THANKS FOR 
-@A7md70242602GH
+[iAHMED](https://github.com/A7md70242602GH)
+Giving Some Ideas
 
 # LICENSE
 [MIT](https://github.com/SHIMORA-6600X/NitroFox/blob/main/LICENSE)
