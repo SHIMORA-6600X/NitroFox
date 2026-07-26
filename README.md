@@ -11,19 +11,19 @@ it's a Custom user.js that's make your browser more faster give feel like a chro
 
 📖 Required reading
 
-   1.Create a backup profile.
+   1. Create a backup profile.
    
    this step is very important to avoid losing profile data ⚠️
    
-   2.Download the user.js file here (Right click > Save Link As…).
+   2. Download the user.js file here (Right click > Save Link As…).
    
-   3.Review both Common Overrides and Optional Hardening to make any necessary changes.
+   3. Review both Common Overrides and Optional Hardening to make any necessary changes.
    
-   4.Open Firefox. In the URL bar, type about:profiles and press Enter.
+   4. Open Firefox. In the URL bar, type about:profiles and press Enter.
    
-   5.For the profile you want to use, click Open Folder in the Root Directory section.
+   5. For the profile you want to use, click Open Folder in the Root Directory section.
    
-   6.Move the user.js file into the folder.
+   6. Move the user.js file into the folder.
 
  ✨ GOALS
 
