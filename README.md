@@ -25,7 +25,7 @@ it's a Custom user.js that's make your browser more faster give feel like a chro
    
    6. Move the user.js file into the folder.
 
-# ✨ GOALS
+# ✨ Features
 
  Performace: get firefox more speed like chrome
  
