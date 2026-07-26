@@ -13,7 +13,7 @@ it's a Custom user.js that's make your browser more faster give feel like a chro
 
    1. Create a backup profile.
    
-   this step is very important to avoid losing profile data ⚠️
+    this step is very important to avoid losing profile data ⚠️
    
    2. Download the user.js file here (Right click > Save Link As…).
    
