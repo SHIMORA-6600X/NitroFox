@@ -33,6 +33,7 @@ it's a Custom user.js that's make your browser more faster give feel like a chro
  Smooth: make firefox smooth scrolling
  
 #💎 SUPPORT
+
 if like this project please leave a ⭐ 
 
 #🌹 SPECIAL THANKS FOR 
