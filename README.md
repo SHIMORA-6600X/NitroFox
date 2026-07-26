@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://discord.com/invite/M6FGTNU2hQ"><img src="https://img.shields.io/badge/Discord-Join-5865F2?logo=discord&logoColor=white" alt="Discord"></a>
-  <a href="https://t.me/+ZdUQRojBn0xjZTQ0"><img src="https://img.shields.io/badge/Telegram-Join-26A5E4?logo=telegram&logoColor=blue" alt="Join Telegram"></a>
+  <a href="https://t.me/+ZdUQRojBn0xjZTQ0"><img src="https://img.shields.io/badge/Telegram-Join-26A5E4?logo=telegram&logoColor=sky" alt="Join Telegram"></a>
 </p>
 
 it's a Custom user.js that's make your browser more faster give feel like a chrome
