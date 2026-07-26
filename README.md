@@ -34,7 +34,7 @@ it's a Custom user.js that's make your browser more faster give feel like a chro
  
 #💎 SUPPORT
 
-if like this project please leave a ⭐ 
+if You like MY project please leave a ⭐ 
 
 #🌹 SPECIAL THANKS FOR 
 [iAHMED](https://github.com/A7md70242602GH)
