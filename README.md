@@ -9,7 +9,7 @@ it's a Custom user.js that's make your browser more faster give feel like a chro
 
 [about:config](https://support.mozilla.org/en-US/kb/about-config-editor-firefox) tweaks for [MozillaFirefox](https://www.mozilla.org/en-US/firefox/new/)
 
-📖 Required reading
+### 📖 Required reading
 
    1. Create a backup profile.
    
