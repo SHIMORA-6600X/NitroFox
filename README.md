@@ -9,7 +9,7 @@ it's a Custom user.js that's make your browser more faster give feel like a chro
 
 [about:config](https://support.mozilla.org/en-US/kb/about-config-editor-firefox) tweaks for [MozillaFirefox](https://www.mozilla.org/en-US/firefox/new/)
 
-# 📖 Required reading
+### 📖 Required reading
 
    1. Create a backup profile.
    
@@ -25,7 +25,7 @@ it's a Custom user.js that's make your browser more faster give feel like a chro
    
    6. Move the user.js file into the folder.
 
-# ✨ Features
+### ✨ Features
 
  Performace: get firefox more speed like chrome
  
@@ -33,14 +33,14 @@ it's a Custom user.js that's make your browser more faster give feel like a chro
  
  Smooth: make firefox smooth scrolling
  
-# 💎 SUPPORT
+### 💎 SUPPORT
 
 if You like MY project please leave a ⭐ 
 
-# 🌹 SPECIAL THANKS FOR 
+### 🌹 SPECIAL THANKS FOR 
 [iAHMED](https://github.com/A7md70242602GH)
 Giving Some Ideas
 
-# LICENSE
+### LICENSE
 [MIT](https://github.com/SHIMORA-6600X/NitroFox/blob/main/LICENSE)
 
