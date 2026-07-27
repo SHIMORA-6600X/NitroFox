@@ -1,7 +1,7 @@
 # NitroFox
 
 <p align="center">
-  <a href="discord.com/invite/vez6bB5dYE"><img src="https://img.shields.io/badge/Discord-Join-5865F2?logo=discord&logoColor=white" alt="Discord"></a>
+  <a href="https://discord.gg/y7NqB8VUAG"><img src="https://img.shields.io/badge/Discord-Join-5865F2?logo=discord&logoColor=white" alt="Discord"></a>
   <a href="https://t.me/Legacy_Archive_System"><img src="https://img.shields.io/badge/Telegram-Join-26A5E4?logo=telegram&logoColor=white" alt="Join Telegram"></a>
 </p>
 
