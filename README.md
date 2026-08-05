@@ -25,6 +25,12 @@ it's a Custom user.js that's make your browser more faster give feel like a chro
    
    6. Move the user.js file into the folder.
 
+|*It's important to read this* |      |     |
+|-------|-----|-------|
+| *Don't Download it* |  *Sourcecode* | *It's not a file that's the source code on main page not in Releases*   |
+|  *Download it*      |  *NitroFox.zip*       | *This is the real Version in Releases*  |
+
+
 ### ✨ _Features_
 
  _Performace_: get firefox more speed like chrome
