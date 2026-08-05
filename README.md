@@ -25,9 +25,9 @@ it's a Custom user.js that's make your browser more faster give feel like a chro
    
    6. Move the user.js file into the folder.
 
-|*It's important to read this* |      |     |
+|*It's important to read this* |  *Files*    | _Note_    |
 |-------|-----|-------|
-| *Don't Download it* |  *Sourcecode* | *It's not a file that's the source code on main page not in Releases*   |
+| *Don't Download it* |  *Source code* | *It's not a file that's the source code on main page not in Releases*   |
 |  *Download it*      |  *NitroFox.zip*       | *This is the real Version in Releases*  |
 
 
