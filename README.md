@@ -27,15 +27,13 @@ it's a Custom user.js that's make your browser more faster give feel like a chro
 
 |*It's important to read this* |  *Files*    | _Note_    |
 |-------|-----|-------|
-| *Don't Download it* |  *Source code* | *It's not a file that's the source code on main page not in Releases*   |
-|  *Download it*      |  *NitroFox.zip*       | *This is the real Version in Releases*  |
+| *Don't Download it* |  *Source code* ❎ | *It's not a file that's the source code on main page not in Releases*   |
+|  *Download it*      |  *NitroFox.zip* ✔️| *This is the real Version in Releases*  |
 
 
 ### ✨ _Features_
 
  _Performace_: get firefox more speed like chrome
- 
- _Balance_: The best balance between performance and privacy
  
  _Smooth_: make firefox smooth scrolling
  
