@@ -33,9 +33,9 @@ it's a Custom user.js that's make your browser more faster give feel like a chro
 
 ### ✨ _Features_
 
- _Performace_: get firefox more speed like chrome
+• _Performace_: get firefox more speed like chrome
  
- _Smooth_: make firefox smooth scrolling
+• _Smooth_: make firefox smooth scrolling
  
 ### 💎 _SUPPORT_
 
