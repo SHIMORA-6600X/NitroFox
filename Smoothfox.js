@@ -24,7 +24,7 @@ user_pref("general.smoothScroll.currentVelocityWeighting", "0.15"); // default=.
 user_pref("general.smoothScroll.stopDecelerationWeighting", "0.6"); // default=.4
 // for Firefox Nightly only:
 // [1] https://bugzilla.mozilla.org/show_bug.cgi?id=1846935
-user_pref("general.smoothScroll.msdPhysics.enabled", false); // [FF122+ Nightly]
+//user_pref("general.smoothScroll.msdPhysics.enabled", false); // [FF122+ Nightly]
 
 /****************************************************************************************
  * OPTION: INSTANT SCROLLING (SIMPLE ADJUSTMENT)                                       *
@@ -35,7 +35,7 @@ user_pref("general.smoothScroll", true); // DEFAULT
 user_pref("mousewheel.default.delta_multiplier_y", 275); // 250-400; adjust this number to your liking
 // for Firefox Nightly only:
 // [1] https://bugzilla.mozilla.org/show_bug.cgi?id=1846935
-user_pref("general.smoothScroll.msdPhysics.enabled", false); // [FF122+ Nightly]
+//user_pref("general.smoothScroll.msdPhysics.enabled", false); // [FF122+ Nightly]
 
 /****************************************************************************************
  * OPTION: SMOOTH SCROLLING                                                            *
