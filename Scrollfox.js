@@ -1,6 +1,6 @@
 
 /****************************************************************************************
- * Smoothfox                                                                            *
+ * Scrollfox                                                                            *
  * "SHIMORA"                                                    *
  * priority: smooth scrolling                                                           *
  * version: 152                                                                         *
