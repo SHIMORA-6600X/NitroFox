@@ -2,9 +2,9 @@
 /****************************************************************************************
  * Smoothfox                                                                            *
  * "SHIMORA"                                                    *
- * priority: better scrolling                                                           *
+ * priority: smooth scrolling                                                           *
  * version: 152                                                                         *
- * url:https://github.com/SHIMORA-6600X/NitroFox
+ * url: https://github.com/SHIMORA-6600X/NitroFox
  * licence: MIT
  ***************************************************************************************/
 
@@ -22,7 +22,7 @@ user_pref("mousewheel.min_line_scroll_amount", 10); // adjust this number to you
 user_pref("general.smoothScroll.mouseWheel.durationMinMS", 80); // default=50
 user_pref("general.smoothScroll.currentVelocityWeighting", "0.15"); // default=.25
 user_pref("general.smoothScroll.stopDecelerationWeighting", "0.6"); // default=.4
-// Firefox Nightly only:
+// for Firefox Nightly only:
 // [1] https://bugzilla.mozilla.org/show_bug.cgi?id=1846935
 user_pref("general.smoothScroll.msdPhysics.enabled", false); // [FF122+ Nightly]
 
@@ -33,7 +33,7 @@ user_pref("general.smoothScroll.msdPhysics.enabled", false); // [FF122+ Nightly]
 user_pref("apz.overscroll.enabled", true); // DEFAULT NON-LINUX
 user_pref("general.smoothScroll", true); // DEFAULT
 user_pref("mousewheel.default.delta_multiplier_y", 275); // 250-400; adjust this number to your liking
-// Firefox Nightly only:
+// for Firefox Nightly only:
 // [1] https://bugzilla.mozilla.org/show_bug.cgi?id=1846935
 user_pref("general.smoothScroll.msdPhysics.enabled", false); // [FF122+ Nightly]
 
