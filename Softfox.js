@@ -32,7 +32,7 @@ user_pref("general.smoothScroll.stopDecelerationWeighting", "0.6"); // default=.
 // recommended for 60hz+ displays
 user_pref("apz.overscroll.enabled", true); // DEFAULT NON-LINUX
 user_pref("general.smoothScroll", true); // DEFAULT
-user_pref("mousewheel.default.delta_multiplier_y", 275); // 250-400; adjust this number to your liking
+user_pref("mousewheel.default.delta_multiplier_y", 280); // 250-400; adjust this number to your liking
 // for Firefox Nightly only:
 // [1] https://bugzilla.mozilla.org/show_bug.cgi?id=1846935
 //user_pref("general.smoothScroll.msdPhysics.enabled", false); // [FF122+ Nightly]
@@ -44,7 +44,7 @@ user_pref("mousewheel.default.delta_multiplier_y", 275); // 250-400; adjust this
 user_pref("apz.overscroll.enabled", true); // DEFAULT NON-LINUX
 user_pref("general.smoothScroll", true); // DEFAULT
 user_pref("general.smoothScroll.msdPhysics.enabled", true);
-user_pref("mousewheel.default.delta_multiplier_y", 300); // 250-400; adjust this number to your liking
+user_pref("mousewheel.default.delta_multiplier_y", 320); // 250-400; adjust this number to your liking
 
 /****************************************************************************************
  * OPTION: ZEN SMOOTH SCROLLING                                                         *
@@ -60,7 +60,7 @@ user_pref("general.smoothScroll.msdPhysics.motionBeginSpringConstant", 600);
 user_pref("general.smoothScroll.msdPhysics.regularSpringConstant", 650);
 user_pref("general.smoothScroll.msdPhysics.slowdownMinDeltaMS", 25);
 user_pref("general.smoothScroll.msdPhysics.slowdownSpringConstant", 250);
-user_pref("mousewheel.default.delta_multiplier_y", 200);
+user_pref("mousewheel.default.delta_multiplier_y", 210);
 
 /****************************************************************************************
  * OPTION: NATURAL SMOOTH SCROLLING V3 [MODIFIED]                                      *
@@ -79,4 +79,4 @@ user_pref("general.smoothScroll.msdPhysics.slowdownMinDeltaRatio", "2");
 user_pref("general.smoothScroll.msdPhysics.slowdownSpringConstant", 250);
 user_pref("general.smoothScroll.currentVelocityWeighting", "1");
 user_pref("general.smoothScroll.stopDecelerationWeighting", "1");
-user_pref("mousewheel.default.delta_multiplier_y", 300); // 250-400; adjust this number to your liking
+user_pref("mousewheel.default.delta_multiplier_y", 330); // 250-400; adjust this number to your liking
